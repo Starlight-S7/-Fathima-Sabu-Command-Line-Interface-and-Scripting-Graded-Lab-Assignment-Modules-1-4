@@ -378,4 +378,4 @@ Once the tool was installed and running, I was able to spot that BurpSuite was t
 After navigating through the list, I pressed the right arrow key at the Downloads folder (or one could use the enter key instead) and was able to get further details on the files present in the folder.
 <img width="1920" height="1080" alt="Screenshot (686)" src="https://github.com/user-attachments/assets/07430c6d-2563-45b8-a4e0-339dc0120e14" />
 
-<h3>The assignment has been completed</h3>
+<h3>.......The assignment has been completed.......</h3>
