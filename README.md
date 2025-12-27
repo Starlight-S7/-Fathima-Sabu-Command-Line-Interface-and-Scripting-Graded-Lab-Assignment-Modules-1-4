@@ -7,6 +7,7 @@ This repository contains the completed assignment of the Command Line Interface 
 You have just joined IxD Systems as a junior systems engineer. On your first day, the Linux administrator asks you to perform a basic environment verification on the lab machine using your own login account.
 
 1. User Identity Verification
+
 Display your currently logged-in username and all groups your user account belongs to.
 Your name or login ID must appear in the output.
 
