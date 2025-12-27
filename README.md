@@ -318,7 +318,7 @@ The output is a continuously updating list. The process at the very top of the l
 4. Background Process Execution: 
 Start a command in the background and verify that it is running.
 
-In Linux, background processing allows a task to run independently of the active terminal. To execute a command in the background, append an ampersand (&) to the end of the command (e.g., sleep 100 &). I verified it is running by using the ps command.
+**Answer 4:** In Linux, background processing allows a task to run independently of the active terminal. To execute a command in the background, append an ampersand (&) to the end of the command (e.g., sleep 100 &). I verified it is running by using the ps command.
 
 I also used the ps aux command with the help of grep to pinpoint the exam process running, as ps aux would usually give a long list of processes. So, using grep to specify which command we wanna check is a time efficient way.
 <img width="1174" height="363" alt="Screenshot (673)" src="https://github.com/user-attachments/assets/6a930edd-a3ff-4ccb-ba32-ce81a2dd84dc" />
